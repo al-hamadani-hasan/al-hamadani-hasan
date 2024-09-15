@@ -6,8 +6,8 @@
 - Distributed systems & how to build them
 - Databases and optimization techniques
 
-**In addition**
-- 👀 I’m interested in **Open Source**, **Software Architecture**, **Cybersecurity**, **AI**
-- 🌱 Learning all about **Open Source**, **Software Archeticture**, **Database Caching**, ...etc.
-- ⚡ Fun fact: I'm a big fan of cats 🐱‍💻
-- 📫 How to reach me via <a href="mailto:mr.alhamadani.hasan@gmail.com">email</a>, <a href="https://www.linkedin.com/in/hasan-al-hamadani">linkedin</a>
+**Goals**
+One of my goals is to become a Microsoft MVP in developer technologies.
+
+If this sounds interesting, let's connect!
+How to reach me via <a href="mailto:mr.alhamadani.hasan@gmail.com">email</a>, <a href="https://www.linkedin.com/in/hasan-al-hamadani">linkedin</a>
