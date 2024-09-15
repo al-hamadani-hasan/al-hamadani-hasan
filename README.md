@@ -1,4 +1,4 @@
-- 👋 I’m a senior software engineer living in Baghdad, Iraq. Primarily working in the **.NET** ecosystem.
+👋 I’m a senior software engineer living in Baghdad, Iraq. Primarily working in the **.NET** ecosystem.
 
 **Thinks I talk about here:**
 - C# & .NET
